@@ -1,0 +1,41 @@
+Job Description
+
+5+ years of relevant experience in the QA Department.
+Expertise in Creating Test Automation Frameworks with Selenium/Java, TestNG
+CI/CD Experience with Jenkins.
+Experience in API testing.
+Expertise in setting up Automation Suites in CI/CD Environment
+3+ Years of extensive experience in Selenium/Java
+Experience developing automated solutions using Selenium, JUnit, TestNG.
+Ability to determine strategic direction and not just tactical.
+Strong programming and technical experience as this role will require digging into code and interfacing with developers and delivery managers.
+Knowledge of tools and processes for results reporting.
+Experience managing teams of Automation Engineers strongly preferred.
+Excellent attention to detail.
+Good interpersonal, communication and organizational skills.
+Maintains knowledge of specific technical specialisms, provides detailed advice regarding their application and executes specialized tasks.
+Motivated by delivery and speed to outcome.
+Flexibility to adjust to multiple demands, shifting priorities, ambiguity and rapid change.
+Ability to deal efficiently with escalations and difficult situations under pressure.
+Knowledge of Software Development Lifecycle including the functional and non-functional test phases.
+Knowledge of Quality Management techniques.
+Intermediate understanding of the customer services and business processes.
+Knowledge of Agile and automation processes.
+ 
+
+Preferences
+
+End to End testing of ReactJS/NextJS apps on real devices
+Automating payment test cases via UI/UX, using modern automation testing techniques
+Automation of payment APIs
+Experience using React/Cypress testing
+QA Automation, Selenium, Java, Jenkins, API Testing, JUnit, Testing
+ 
+
+Job Responsibilities
+
+Provide supervision and direction to team members and staff
+Delegate, coach, coordinate and lead co-workers and project team members
+Understanding and documentation of existing tools/architecture if any, SWOT analysis of existing tools/framework, analysis of requirements for KT and future release items.
+Solution and design for framework where required, updates to existing framework, design/development of new framework, scripting test cases.
+Move along towards new initiatives without other people intervention.

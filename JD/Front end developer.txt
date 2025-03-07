@@ -1,0 +1,49 @@
+Job Description and Responsibilities
+6year of experience in ReactJS application and NodeJS API stacks.
+ 
+
+Essential Functions:
+
+Code, test and troubleshoot our ReactJS application and NodeJS API stacks.
+
+Write secure code to industry standards and best practices.
+
+Troubleshoot issues that may result from development activities.
+
+Write and maintain programming documentation
+
+Collaborate with other team members working in the same area of the application
+
+ 
+
+Qualifications and experience:
+
+experience in web application development, experience with JavaScript, HTML and CSS.
+
+experience in developing web services using Node JS.
+
+experience in responsive web design and front-end framework
+
+experience building scalable web-based applications using ReactJS and NodeJS
+
+Ability to manage multiple tasks in a fast-paced environment.
+
+Familiarity with Agile methodology and various practices such as SCRUM and Kanban.
+
+Be an active participant in Agile ceremonies.
+
+Strong problem-solving skills.
+
+Inquisitive nature and good communication skills.
+
+Willingness to recommend solutions.
+
+Seeks help and assistance from team members when necessary.
+
+ 
+
+The following skills are a plus:
+
+Familiarity with NestJS
+
+Possesses an analytical mind and the desire to investigate problem
